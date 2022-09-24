@@ -7,11 +7,7 @@ function test() {
 
 function test() {
     
-<<<<<<< HEAD
 }
 function test() {
-    
+    console.log("abvd")    
 }   
-=======
-}
->>>>>>> 45e8db6368797492f42ba31fcc2479676ce77e9c
